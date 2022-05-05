@@ -75,7 +75,7 @@
   <configuration>
 	<archive>
 	<manifest>
-		<mainClass>company.App</mainClass>
+		<mainClass>company.demos.App</mainClass>
 	</manifest>
 	</archive>
   </configuration>       
